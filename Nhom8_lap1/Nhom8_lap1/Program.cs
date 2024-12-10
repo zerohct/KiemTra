@@ -28,6 +28,7 @@ namespace Nhom8_lap1
                 Console.WriteLine("Nguoi choi thua cuoc. So can doan la: {0}", targetNumber);
             else
                 Console.WriteLine("Nguoi choi thang cuoc!", attempt);
+            Console.WriteLine("Ban choi rat gioi!!! ");
             Console.ReadLine();
         }
         static string GetFeedBack(string target, string guess)
