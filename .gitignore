@@ -1,0 +1,75 @@
+# Build Folders
+bin/
+obj/
+
+# User-specific files
+*.user
+*.userosscache
+*.suo
+*.unsuccessfulbuild
+*.opendb
+
+# Log and Database files
+*.log
+*.ldb
+*.sql
+*.sqlite
+*.sqlite3
+
+# Visual Studio specific
+.vscode/
+.vs/
+*.csproj.user
+*.pidb
+*.aps
+*.orig
+_ReSharper*/
+*.resharper
+
+# Backup & Report files
+*.bak
+*.swp
+*.sln.docstates
+
+# IIS config folder
+.idea/
+.vs/
+
+# Package files
+*.nupkg
+packages/
+
+# Mono auto generated files
+mono_crash.*
+
+# macOS specific files
+.DS_Store
+
+# Windows specific files
+Thumbs.db
+ehthumbs.db
+Desktop.ini
+
+# Rider IDE files
+.idea/
+*.iml
+.idea_modules/
+
+# Temporary files
+*.tmp
+*.temp
+~$*
+
+# Coverage
+coverage/
+*.coverage
+*.coveragexml
+*.codecov
+TestResults/
+
+# Other files to ignore
+*.pdb
+*.cache
+*.dll
+*.exe
+*.config
