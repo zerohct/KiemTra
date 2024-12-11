@@ -98,8 +98,8 @@ cd project
 
 |                                          Avatar                                           | Tên              | Vai Trò         | Expertise            |
 | :---------------------------------------------------------------------------------------: | ---------------- | --------------- | -------------------- |
-| <img src="https://github.com/xuanquang1m80.png" width="100" style="border-radius: 50%;"/> | Huỳnh Công Tường | Phát Triển Viên | Full-stack Developer |
-|    <img src="https://github.com/zerohct.png" width="100" style="border-radius: 50%;"/>    | Phạm Xuân Quảng  | Trưởng Nhóm     | Full-stack Developer |
+| <img src="https://github.com/xuanquang1m80.png" width="100" style="border-radius: 50%;"/> | Huỳnh Công Tường | Trưởng Nhóm | Full-stack Developer |
+|    <img src="https://github.com/zerohct.png" width="100" style="border-radius: 50%;"/>    | Phạm Xuân Quảng  |    Phát Triển Viên  | Full-stack Developer |
 
 
 ## 🤝 Hướng Dẫn Đóng Góp
